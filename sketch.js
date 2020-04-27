@@ -27,13 +27,9 @@ function draw() {
   fill ("white");
   stroke ("#8524C4");
   textSize (24);
-  textFont ("Helvetic");
+  textFont ("Helvetica");
   textStyle (ITALIC);
   text ("Stormy Blue Moon",250,483);
-  
-  
-  
-  
 }
 
 function mousePressed() {
